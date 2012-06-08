@@ -1,0 +1,16 @@
+syntax: glob
+cvs-files/*
+postalcode.js
+.project
+.classpath
+*/.classpath
+te-report/*
+out/*
+*.iml
+*.ipr
+*/te-report/*
+*/.idea/*
+.idea/*
+.gradle/*
+*/build/*
+build/*
